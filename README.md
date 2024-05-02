@@ -16,3 +16,7 @@ Estou cursando o primeiro semestre em Ciência da Computação. Sou formada em a
 ![Windows](https://img.shields.io/badge/Windows-EDCBDF?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-EDCBDF?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-EDCBDF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Projetos
+
+[![eBook](https://img.shields.io/badge/Ebook-EDCBDF?style=for-the-badge)](https://github.com/thabelini/Projeto-DIO-Ebook.git)
