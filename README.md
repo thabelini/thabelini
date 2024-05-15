@@ -20,3 +20,4 @@ Estou cursando o primeiro semestre em Ciência da Computação. Sou formada em a
 ## Projetos
 
 [![eBook](https://img.shields.io/badge/Ebook-EDCBDF?style=for-the-badge)](https://github.com/thabelini/Projeto-DIO-Ebook.git)
+[![Artigo](https://img.shields.io/badge/Artigo-EDCBDF?style=for-the-badge)](https://github.com/thabelini/prompts-for-article-generate-by-ia?tab=readme-ov-file)
